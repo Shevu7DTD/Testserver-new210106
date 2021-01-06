@@ -1,5 +1,0 @@
-<configs>
-
-	<set xpath="/materials/material[@id='Msteel']/property[@name='MaxDamage'][@value='7000']/@value">50000</set>
-
-</configs>

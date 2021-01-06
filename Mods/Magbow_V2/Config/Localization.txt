@@ -1,5 +1,0 @@
-Key,Source,Context,Changes,English,german,
-Magbow,items,Gun,New,Magbow,Stahlarmbrust,
-MagbowDesc,items,Gun,New,Magbow,Eine Stahlarmbrust mit 20Schuss-Magazin,
-MagbowSchematic,items,GunRifle,New,Magbow Schematic,Stahlarmbrust Bauplan,
-MagbowSchematicDesc,items,GunRifle,New,Teaches you to craft the Magbow.,Lerne wie du eine Stahlarmbrust herstellen kannst.,
