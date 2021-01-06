@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="IceBurg_Craft_WindowTrim_DoorTrim_Miniblinds_CrownMoulding" />
+		<Description value="Adds recipes to be able to craft all the different Vanilla window trim, door trim, miniblinds, curtains, and crown moulding." />
+		<Author value="IceBurg" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>

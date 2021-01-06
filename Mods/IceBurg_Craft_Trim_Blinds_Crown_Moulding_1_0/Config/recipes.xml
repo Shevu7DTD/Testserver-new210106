@@ -1,0 +1,99 @@
+<IceBurg>
+	<append xpath="/recipes">
+
+<!-- TRIM... -->
+	<!-- Wood Window Trim -->
+		<!-- woodWindowTrim -->
+		<recipe name="woodWindowTrim" count="1" craft_time="20" craft_area="workbench">
+			<ingredient name="resourceWood" count="4"/>
+		</recipe>
+		<!-- woodWindowTrimBottom -->
+		<recipe name="woodWindowTrimBottom" count="1" craft_time="20" craft_area="workbench">
+			<ingredient name="resourceWood" count="4"/>
+		</recipe>
+		<!-- woodWindowTrimSides -->
+		<recipe name="woodWindowTrimSides" count="1" craft_time="20" craft_area="workbench">
+			<ingredient name="resourceWood" count="7"/>
+		</recipe>
+		<!-- woodWindowTrimTop -->
+		<recipe name="woodWindowTrimTop" count="1" craft_time="20" craft_area="workbench">
+			<ingredient name="resourceWood" count="5"/>
+		</recipe>
+		<!-- woodWindowTrimTopFancy -->
+		<recipe name="woodWindowTrimTopFancy" count="1" craft_time="20" craft_area="workbench">
+			<ingredient name="resourceWood" count="6"/>
+		</recipe>
+
+	<!-- Wood Door Trim -->
+		<!-- doorTrim2m -->
+		<recipe name="doorTrim2m" count="1" craft_time="10" craft_area="workbench">
+			<ingredient name="resourceWood" count="8"/>
+		</recipe>
+		<!-- doorTrimTop -->
+		<recipe name="doorTrimTop" count="1" craft_time="10" craft_area="workbench">
+			<ingredient name="resourceWood" count="4"/>
+		</recipe>
+		<!-- doorTrim1m -->
+		<recipe name="doorTrim1m" count="1" craft_time="10" craft_area="workbench">
+			<ingredient name="resourceWood" count="4"/>
+		</recipe>
+		<!-- doorTrimHalfm -->
+		<recipe name="doorTrimHalfm" count="1" craft_time="10" craft_area="workbench">
+			<ingredient name="resourceWood" count="2"/>
+		</recipe>
+
+	<!-- Wood Crown Moulding -->
+		<!-- woodCrown -->
+		<recipe name="woodCrown" count="1" craft_time="10" craft_area="workbench">
+			<ingredient name="resourceWood" count="4"/>		
+		</recipe>
+		<!-- woodCrownInsideCorner -->
+		<recipe name="woodCrownInsideCorner" count="1" craft_time="10" craft_area="workbench">
+			<ingredient name="resourceWood" count="4"/>
+		</recipe>
+
+<!-- BLINDS... -->
+	<!-- miniblinds -->
+		<!-- miniblindTopSheet -->
+		<recipe name="miniblindTopSheet" count="1" craft_time="8" craft_area="workbench">
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="2"/>
+		</recipe>
+		<!-- miniblindBottomSheet -->
+		<recipe name="miniblindBottomSheet" count="1" craft_time="8" craft_area="workbench">
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="2"/>
+		</recipe>
+
+	<!-- commercial blinds -->
+		<!-- commercialBlindsTop -->
+		<recipe name="commercialBlindsTop" count="1" craft_time="8" craft_area="workbench">
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="2"/>
+		</recipe>
+		<!-- metalPipeCap -->
+		<recipe name="commercialBlindsBottom" count="1" craft_time="8" craft_area="workbench">
+			<ingredient name="resourceScrapPolymers" count="6"/>
+			<ingredient name="resourceMechanicalParts" count="2"/>
+		</recipe>
+
+<!-- SHUTTERS... -->
+	<!-- Suhtters -->
+		<!-- shutters1Plate -->
+		<recipe name="shutters1Plate" count="1" craft_time="8" craft_area="workbench">
+			<ingredient name="resourceWood" count="10"/>
+		</recipe>
+
+<!-- Curtains... -->
+	<!-- Curtains -->
+		<!-- curtain_top1Sheet3 -->
+		<recipe name="curtain_top1Sheet3" count="1" craft_time="8">
+			<ingredient name="resourceCloth" count="7"/>
+		</recipe>
+		<!-- shutters1Plate -->
+		<recipe name="curtain_bottom1Sheet3" count="1" craft_time="8">
+			<ingredient name="resourceCloth" count="7"/>
+		</recipe>
+
+	</append>
+</IceBurg>

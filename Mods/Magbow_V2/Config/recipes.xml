@@ -1,0 +1,15 @@
+<configs>
+
+<append xpath="/recipes">
+
+	<recipe name="Magbow" count="1" craft_area="workbench" craft_time="300" tags="learnable,perkArchery">
+		<ingredient name="gunBowT1WoodenBowParts" count="6"/>
+		<ingredient name="resourceForgedSteel" count="10"/>
+		<ingredient name="resourceMechanicalParts" count="5"/>
+		<ingredient name="resourceLeather" count="5"/>
+		<ingredient name="resourceSpring" count="2"/>
+	</recipe>
+		
+</append>
+
+</configs>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Wireless_Power_Vedui42" />
+		<Description value="Adds a simple craftable wireless power box to remove outgoing wires. No progression included to make it futureproof." />
+		<Author value="Vedui42" />
+		<Version value="1.0" />
+	</ModInfo>
+</xml>
